@@ -2,9 +2,9 @@
 
 ## Student Information
 
-- **Name:** YOUR_NAME
-- **Registration Number:** YOUR_REGISTRATION_NUMBER
-- **Section:** YOUR_SECTION
+- **Name:** Yenamala Sreedhar
+- **Registration Number:** 252U1R1243
+- **Section:** CSE-2E (211)
 
 ---
 
